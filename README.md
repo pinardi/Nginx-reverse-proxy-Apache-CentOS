@@ -1,5 +1,6 @@
-install salt master ubuntu**Table of Contents**
+# Nginx-reverse-proxy-Apache-CentOS
 
+**Table of Contents**
 * [Installation](#installation)
 * [activate service nginx](#activated)
 * [allow firewall](#firewall)
