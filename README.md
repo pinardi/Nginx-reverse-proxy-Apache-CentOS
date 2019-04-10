@@ -106,4 +106,5 @@ nano /etc/httpd/conf/httpd.conf
  ```
  open your IP
  
- source : https://www.hugeserver.com/kb/configure-nginx-reverse-proxy-apache-centos/
+ ## source : https://www.hugeserver.com/kb/configure-nginx-reverse-proxy-apache-centos/
+ ##             https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-on-centos-7
