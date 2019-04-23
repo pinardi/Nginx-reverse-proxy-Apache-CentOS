@@ -10,18 +10,14 @@
 # Installation
 ## install & download Nginx at CentOS
 ```bash
-```bash
 yum install epel-release
 yum install nginx
-```
-
 ```
 # activate service nginx
 ## start nginx
 ```bash
 systemctl start nginx
 ```
-
 # allow firewall
 ## allow firewall zone public http & https
 ```bash
